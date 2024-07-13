@@ -132,3 +132,34 @@ body {
     color: #272727;
     font-weight: 600;
 }
+
+/* Special Styles */
+.special {
+    background-color: #F4F4F4;
+    display: flex;
+    gap: 60px;
+    width: 881px;
+    margin: 0 auto;
+    border-radius: 5px;
+    padding: 75px;
+    align-items: center;
+    justify-content: center;
+}
+
+.special-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.special-description {
+    margin-top: 10px;
+}
+
+.special-img {
+    width: 70px;
+}
+
+
+
