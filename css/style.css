@@ -246,6 +246,30 @@ input[type='email'] {
     margin-bottom: 95px;
 }
 
+/* Footer Styles */
+footer {
+    background-color: #111010;
+    padding: 100px;
+}
+
+.footer-description {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.63);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    align-items: center;
+}
+
+.footer-txt {
+    text-align: center;
+    color: #757575;
+    font-size: 14px;
+}
+
+.shop {
+    color: white;
+}
+
 
 
 
